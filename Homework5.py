@@ -26,7 +26,7 @@ zadacha2()
 # # Удалите все повторяющиеся элементы.
 def zadacha3():
     len = 10
-    list = [random.randint(1, 10) for _ in range(len)]
+    list = [7, 7, 5, 5, 5]
     print(f'Данный список {list}')
     list1 = []
     count = 0
